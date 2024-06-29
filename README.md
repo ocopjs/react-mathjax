@@ -1,3 +1,5 @@
-# react-mathjax
+## React Mathjax
 
-OcopJS - Hiển thị công thức toán học.
+![ocopjs packages](https://docs.ocopee.com/img/ocopjs-diagram.svg)
+
+## [Xem tài liệu](https://docs.ocopee.com/docs/ocopjs/references/react-mathjax)

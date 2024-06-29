@@ -1,7 +1,7 @@
 {
   "name": "@ocopjs/react-mathjax",
   "version": "1.0.0",
-  "description": "React component to render math using MathJax",
+  "description": "React component to render math using MathJax. 🇻🇳",
   "main": "./lib/index.js",
   "scripts": {
     "lint": "eslint ./src",
