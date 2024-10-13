@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint ./src",
     "babel": "babel --out-dir ./lib ./src",
-    "build:tsup": "tsup",
+    "build": "tsup",
+    "dev": "tsup --watch",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-example": "browserify ./example/main.js -o ./example/bundle.js -t [ babelify ]",
     "format": "prettier --write \"**/*.{ts,tsx,md,js}\"",
